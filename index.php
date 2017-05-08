@@ -8,3 +8,11 @@ function writeMessage() {//Defining a PHP Function
 }
 
 writeMessage(); //Calling a PHP Function
+
+//Susie trying out version control with Debs
+function sayhello {
+    echo "Hello Debs!";
+    echo "Hello Janet!":
+    echo "Why tell us the coding test is harder than we expect!";
+}
+
